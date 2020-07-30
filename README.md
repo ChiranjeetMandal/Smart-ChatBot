@@ -7,3 +7,6 @@ Amazon Lex : Amazon Lex is a service for building conversational interfaces into
 
 Speech recognition and natural language understanding are some of the most challenging problems to solve in computer science, requiring sophisticated deep learning algorithms to be trained on massive amounts of data and infrastructure. Amazon Lex democratizes these deep learning technologies by putting the power of Amazon Alexa within reach of all developers. Harnessing these technologies, Amazon Lex enables you to define entirely new categories of products made possible through conversational interfaces.
 
+
+Link : https://console.aws.amazon.com/lex/home?region=us-east-1#bot-editor:bot=Chiranjeet
+
